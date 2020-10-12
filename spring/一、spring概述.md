@@ -11,7 +11,7 @@ Spring 有可能成为所有企业应用程序的一站式服务点，然而，S
 
 Spring 框架提供约 20 个模块，可以根据应用程序的要求来使用。
 
-![Spring 体系结构](images/arch1.png)
+![](https://jiayue-1258324758.cos.ap-nanjing.myqcloud.com/arch1.png)
 
 ## 2.1 核心容器
 
@@ -24,7 +24,8 @@ Spring 框架提供约 20 个模块，可以根据应用程序的要求来使用
 
 它们的完整依赖关系如下图所示：
 
-<img src="images/1540290875453691.png" alt="Spring 体系结构" style="zoom:200%;" />
+![](https://jiayue-1258324758.cos.ap-nanjing.myqcloud.com/1540290875453691.png)
+
 
 ## 2.2 数据访问/集成
 
@@ -110,11 +111,13 @@ Spring 对JavaEE API（如 JDBC、JavaMail、远程调用等）进行了薄薄�
 
 - 下载5.2.0版本
 
-![image-20201011201716697](images/image-20201011201716697.png)
+![](https://jiayue-1258324758.cos.ap-nanjing.myqcloud.com/image-20201011201716697.png)
+
 
 - 下载spring-5.2.0.RELEASE-dist.zip
 
-![image-20201011201811139](images/image-20201011201811139.png)
+![](https://jiayue-1258324758.cos.ap-nanjing.myqcloud.com/image-20201011201811139.png)
+
 
 - 解压后Spring 目录结构:
 
@@ -122,7 +125,7 @@ Spring 对JavaEE API（如 JDBC、JavaMail、远程调用等）进行了薄薄�
   - libs :jar 包和源码.
   - schema :可以查看dtd约束.
 
-  ![image-20200301125313284](images/image-20200301125313284.png)
+![](https://jiayue-1258324758.cos.ap-nanjing.myqcloud.com/image-20200301125313284.png)
 
 
 
